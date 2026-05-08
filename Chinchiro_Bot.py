@@ -1,4 +1,3 @@
-```python
 import discord
 import os
 import json
@@ -189,4 +188,3 @@ async def on_message(message):
 
 # ===== 起動 =====
 client.run(TOKEN)
-```
