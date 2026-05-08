@@ -1,1 +1,1 @@
-worker: python3 Tsundere.py
+worker: python3 Chinchiro_Bot.py
